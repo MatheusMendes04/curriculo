@@ -1,12 +1,19 @@
 .pagina{
-    background-color: lightslategrey;
+    background-color: rgb(210, 230, 236);
 }
 
 .titulo{
     color: black;
     text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
 }
 
 .texto{
     color: black;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.img{
+    text-align: center;
 }
